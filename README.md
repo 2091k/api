@@ -1,5 +1,7 @@
 ## 直播源自用
 
+[newcctv.txt-新](http://iptv.2091k.cn/cctv/newcctv.txt)
+
 [202401.txt-电信-回看](http://iptv.2091k.cn/cctv/202401.txt)
 
 [2024.txt](http://iptv.2091k.cn/cctv/2024.txt)
