@@ -6,7 +6,7 @@ CCTV4,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
 CCTV5,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8#http://mobilelive-ds.ysp.CCTV.cn/ysp/2013693901.m3u8#http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0#http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0#http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV7,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
-CCTV8,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
+CCTV8,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078503.m3u8#http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024089803.m3u8
 CCTV9,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
 CCTV10,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
 CCTV11,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
@@ -70,7 +70,6 @@ CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8#http://mobilelive-ds.
 8860,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024088603.m3u8
 8880,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024088803.m3u8
 8890,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024088903.m3u8
-8980,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024089803.m3u8
 9330,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024093303.m3u8
 10320,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024103203.m3u8
 11000,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024110003.m3u8
