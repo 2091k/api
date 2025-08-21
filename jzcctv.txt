@@ -137,3 +137,5 @@ CCTV5+,http://goo.bkpcp.top/mg/cctv5p#CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5
 陕西卫视,http://218.13.14.6:60050/tsfile/live/1044_1.m3u8
 三沙卫视,http://119.140.58.23:2024/hls/88/index.m3u8
 大湾区卫视,http://tvbox6.icu/tv/dwqws.m3u8
+
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
