@@ -56,11 +56,10 @@ CCTV5+,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/cctv5
 内蒙古卫视,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/nmgws2d5m/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nmgws2d5m/index.m3u8?
 哈哈炫动,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8?
 动漫秀场,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8?
-游戏风云,http://112.31.88.236:6610/120000002003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8?#http://120.210.193.151:8006/120000002003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8?
+游戏风云,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8?
 东方财经,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8?
 卡酷卡通,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8?
 嘉佳卡通,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/jjkt2d5m/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jjkt2d5m/index.m3u8?
-纪实人文,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/jishipd8m/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jishipd8m/index.m3u8?
 都市剧场,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8?
 金鹰卡通,http://112.31.88.236:6610/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8?#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8?
 安徽经济科教高清，http://112.31.88.236:6610/120000001002/XMTah_jjhd/index.m3u8?#http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8?
